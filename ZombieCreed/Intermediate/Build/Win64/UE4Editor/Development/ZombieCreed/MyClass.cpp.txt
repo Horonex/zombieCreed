@@ -1,0 +1,2 @@
+D:\unreal\zombiecreed\ZombieCreed\ZombieCreed\Intermediate\Build\Win64\UE4Editor\Development\ZombieCreed\Definitions.ZombieCreed.h
+D:\unreal\zombiecreed\ZombieCreed\ZombieCreed\Source\ZombieCreed\MyClass.h

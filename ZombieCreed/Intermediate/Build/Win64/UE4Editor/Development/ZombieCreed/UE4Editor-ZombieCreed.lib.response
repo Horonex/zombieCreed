@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ZombieCreed.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\unreal\zombiecreed\ZombieCreed\ZombieCreed\Intermediate\Build\Win64\ZombieCreedEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\unreal\zombiecreed\ZombieCreed\ZombieCreed\Intermediate\Build\Win64\UE4Editor\Development\ZombieCreed\MyClass.cpp.obj"
+"D:\unreal\zombiecreed\ZombieCreed\ZombieCreed\Intermediate\Build\Win64\UE4Editor\Development\ZombieCreed\ZombieCreed.cpp.obj"
+"D:\unreal\zombiecreed\ZombieCreed\ZombieCreed\Intermediate\Build\Win64\UE4Editor\Development\ZombieCreed\Default.rc2.res"
+/OUT:"D:\unreal\zombiecreed\ZombieCreed\ZombieCreed\Intermediate\Build\Win64\UE4Editor\Development\ZombieCreed\UE4Editor-ZombieCreed.lib"
+/INCLUDE:IMPLEMENT_MODULE_ZombieCreed
